@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🙌 Hi, I'm leelin:
 - 🤙 <span>759757929@qq.com</span>
-- 🔭 I’m currently working on vue/Cost-management-system
+- 🔭 I’m currently working on vue/cost-management-system
 - 👯 I’m looking to remote work
 
 # ✨ Participate in:
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 **Languages**
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
